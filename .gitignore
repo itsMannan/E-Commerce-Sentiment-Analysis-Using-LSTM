@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+.ipynb_checkpoints/
+
+# dataset is large and I am not redistributing it
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+# saved model files get big
+models/*
+!models/.gitkeep
+
+outputs/figures/*
+!outputs/figures/.gitkeep
+
+outputs/reports/*
+!outputs/reports/.gitkeep
