@@ -131,8 +131,3 @@ Pages: overview, review explorer, live prediction, model performance, error anal
 - Split a review into aspects (taste, price, shipping) instead of one label for the whole text.
 - Do something more serious about sarcasm and mixed reviews than a keyword list.
 
-## CV line
-
-Title: Deep Learning-Based E-Commerce Sentiment Analysis for Customer Insights
-
-Bullet: Built an LSTM-based sentiment classification pipeline for customer reviews to analyze feedback patterns and explore applications in product evaluation and customer experience management.
